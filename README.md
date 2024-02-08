@@ -1,4 +1,4 @@
-# Welcome to ```NextGen-Authentication-Workshop```
+# Welcome to ```NexGen-Authentication-Workshop```
 
 Integrating One Tap OTPLESS Sign In into your React Native Application using our SDK is a streamlined process. This guide offers a comprehensive walkthrough, detailing the steps to install the SDK and seamlessly retrieve user information.
 
